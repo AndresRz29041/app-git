@@ -18,6 +18,8 @@
                     Para resolver la ecuación es nesario introducir el valor de <i>x</i>.<br />
                     Los valores <i>a</i>, <i>b</i> & <i>c</i> serán obtenidos desde la base de datos.
 
+			Agregando un cambio para git!!
+
                 </div>
 
                 <table>
