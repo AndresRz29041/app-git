@@ -1,0 +1,6 @@
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\bin\Debug\AppNegocio.dll
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\bin\Debug\AppNegocio.pdb
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\obj\Debug\AppNegocio.csproj.AssemblyReference.cache
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\obj\Debug\AppNegocio.csproj.CoreCompileInputs.cache
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\obj\Debug\AppNegocio.dll
+D:\Uvne\7mo Tetra\Ingeniería en Software 2\AppCapas\AppNegocio\obj\Debug\AppNegocio.pdb
